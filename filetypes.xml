@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="s" type="DTD" />
       <mapping pattern="mvpWineDto.json" type="PLAIN_TEXT" />
       <mapping pattern="storesByChannelTeam.json" type="PLAIN_TEXT" />
       <mapping pattern="storesByChannelTeam" type="PLAIN_TEXT" />
