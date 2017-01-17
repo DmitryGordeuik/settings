@@ -257,6 +257,12 @@
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value />
     </option>
+    <option name="DEFAULT_VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="90ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
