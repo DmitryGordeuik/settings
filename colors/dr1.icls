@@ -230,7 +230,7 @@
     </option>
     <option name="Class">
       <value>
-        <option name="FOREGROUND" value="da4939" />
+        <option name="FOREGROUND" value="678cb1" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -420,7 +420,7 @@
     </option>
     <option name="Groovy method declaration">
       <value>
-        <option name="FOREGROUND" value="da4939" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="Groovydoc comment">
