@@ -18,6 +18,10 @@
       <mask>*.xsd</mask>
       <mask>*.xml</mask>
       <mask>*.ja</mask>
+      <mask>c*.java</mask>
+      <mask>com*.java</mask>
+      <mask>com.*.java</mask>
+      <mask>.*.java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
