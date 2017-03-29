@@ -1,4 +1,5 @@
 <scheme name="dr1" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
@@ -1194,7 +1195,7 @@
     </option>
     <option name="SQL_TABLE">
       <value>
-        <option name="FOREGROUND" value="da4939" />
+        <option name="FOREGROUND" value="92c663" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
