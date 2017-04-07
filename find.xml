@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
@@ -22,6 +21,16 @@
       <mask>com.*.java</mask>
       <mask>.*.java</mask>
       <mask>*.java</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.properto</mask>
+      <mask>*.proper</mask>
+      <mask>*.property</mask>
+      <mask>*.propert</mask>
+      <mask>*.properteis</mask>
+      <mask>*.propertes</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
