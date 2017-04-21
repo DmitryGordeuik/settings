@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.x</mask>
-      <mask>*.xs</mask>
       <mask>*.x*</mask>
       <mask>*.xsd</mask>
       <mask>*.xml</mask>
@@ -29,11 +26,14 @@
       <mask>*.f</mask>
       <mask>*.ft</mask>
       <mask>*.ftl</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
       <mask>*.pro*</mask>
       <mask>*.java</mask>
+      <mask>*.prop*</mask>
+      <mask>*.prop</mask>
+      <mask>*.pro</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
     </recentFileMasks>
   </component>
 </application>
