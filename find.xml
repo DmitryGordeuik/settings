@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>com*.java</mask>
       <mask>com.*.java</mask>
@@ -29,13 +30,13 @@
       <mask>*.pr</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
-      <mask>*.xml</mask>
       <mask>*.xsd</mask>
       <mask>*.xs</mask>
-      <mask>*.x</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
