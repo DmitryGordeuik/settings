@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.update" />
     <recentFileMasks>
-      <mask>.*.java</mask>
-      <mask>*.properto</mask>
-      <mask>*.proper</mask>
-      <mask>*.property</mask>
       <mask>*.propert</mask>
       <mask>*.properteis</mask>
       <mask>*.propertes</mask>
@@ -24,16 +21,20 @@
       <mask>*.pro</mask>
       <mask>*.pr</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>com*.java</mask>
-      <mask>*.java</mask>
       <mask>*.xs</mask>
       <mask>*.xsd</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*.u</mask>
+      <mask>*.up</mask>
+      <mask>*.upda</mask>
+      <mask>*.update</mask>
     </recentFileMasks>
   </component>
 </application>
