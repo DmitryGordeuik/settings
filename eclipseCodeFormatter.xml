@@ -4,7 +4,6 @@
       <list>
         <Settings>
           <option name="defaultSettings" value="true" />
-          <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1493469824594" />
           <option name="importOrderConfigFilePath" value="$USER_HOME$/Projects/reservation-service/etc/eclipse/eclipseImportOrder.importorder" />
           <option name="importOrderFromFile" value="true" />
