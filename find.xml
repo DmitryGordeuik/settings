@@ -22,7 +22,6 @@
       <mask>*.p</mask>
       <mask>*.j</mask>
       <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*.jav</mask>
       <mask>com*.java</mask>
       <mask>*.xs</mask>
@@ -34,6 +33,7 @@
       <mask>*.upda</mask>
       <mask>*.update</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
