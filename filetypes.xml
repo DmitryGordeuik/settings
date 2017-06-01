@@ -8,6 +8,7 @@
       <mapping pattern="sdf" type="PLAIN_TEXT" />
       <mapping pattern="sdf.json" type="PLAIN_TEXT" />
       <mapping pattern="storesByChannelTeam.json" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping pattern="userTasksTable" type="VTL" />
     </extensionMap>
