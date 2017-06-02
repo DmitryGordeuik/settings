@@ -29,11 +29,11 @@
       <mask>*.</mask>
       <mask>*.f</mask>
       <mask>*.ftl</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.json</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
