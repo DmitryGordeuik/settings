@@ -8,7 +8,6 @@
       <mask>*.propertes</mask>
       <mask>*.properties</mask>
       <mask>*.jso</mask>
-      <mask>*.ft</mask>
       <mask>*.pro*</mask>
       <mask>*.prop*</mask>
       <mask>*.prop</mask>
@@ -28,12 +27,13 @@
       <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.f</mask>
-      <mask>*.ftl</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.json</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.ft</mask>
+      <mask>*.ftl</mask>
     </recentFileMasks>
   </component>
 </application>
