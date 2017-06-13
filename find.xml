@@ -3,17 +3,14 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pro*" />
     <recentFileMasks>
       <mask>*.properteis</mask>
       <mask>*.propertes</mask>
       <mask>*.properties</mask>
       <mask>*.jso</mask>
-      <mask>*.pro*</mask>
       <mask>*.prop*</mask>
       <mask>*.prop</mask>
-      <mask>*.pro</mask>
-      <mask>*.pr</mask>
-      <mask>*.p</mask>
       <mask>*.jav</mask>
       <mask>com*.java</mask>
       <mask>*.u</mask>
@@ -34,6 +31,10 @@
       <mask>*.ftl</mask>
       <mask>*.xs</mask>
       <mask>*.xsd</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.pro*</mask>
     </recentFileMasks>
   </component>
 </application>
