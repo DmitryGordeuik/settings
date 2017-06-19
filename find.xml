@@ -5,9 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pro*" />
     <recentFileMasks>
-      <mask>*.properteis</mask>
-      <mask>*.propertes</mask>
       <mask>*.properties</mask>
       <mask>*.jso</mask>
       <mask>*.prop*</mask>
@@ -35,6 +34,8 @@
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
+      <mask>*.pm</mask>
+      <mask>*.pms</mask>
       <mask>*.pro*</mask>
     </recentFileMasks>
   </component>
