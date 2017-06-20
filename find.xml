@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ftl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jso</mask>
@@ -20,14 +21,11 @@
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
-      <mask>*.f</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.json</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*.ft</mask>
-      <mask>*.ftl</mask>
       <mask>*.xs</mask>
       <mask>*.xsd</mask>
       <mask>*.p</mask>
@@ -36,6 +34,9 @@
       <mask>*.pm</mask>
       <mask>*.pms</mask>
       <mask>*.pro*</mask>
+      <mask>*.f</mask>
+      <mask>*.ft</mask>
+      <mask>*.ftl</mask>
     </recentFileMasks>
   </component>
 </application>
