@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pro*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jso</mask>
@@ -14,7 +15,6 @@
       <mask>*.up</mask>
       <mask>*.upda</mask>
       <mask>*.update</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.json</mask>
@@ -22,18 +22,19 @@
       <mask>*.java</mask>
       <mask>*.xs</mask>
       <mask>*.xsd</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
       <mask>*.pm</mask>
       <mask>*.pms</mask>
-      <mask>*.pro*</mask>
       <mask>*.f</mask>
       <mask>*.ft</mask>
       <mask>*.ftl</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.pro*</mask>
     </recentFileMasks>
   </component>
 </application>
