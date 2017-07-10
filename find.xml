@@ -26,7 +26,6 @@
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.pro*</mask>
-      <mask>*.xml</mask>
       <mask>*.xsd</mask>
       <mask>*.xs</mask>
       <mask>*.x</mask>
@@ -34,6 +33,7 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
