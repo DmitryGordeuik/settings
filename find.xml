@@ -29,11 +29,11 @@
       <mask>*.j</mask>
       <mask>*.jacv</mask>
       <mask>*.jacva</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xsd</mask>
       <mask>*.xml</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
