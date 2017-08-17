@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.upda</mask>
       <mask>*.update</mask>
@@ -30,10 +31,10 @@
       <mask>*.proper</mask>
       <mask>*.proper*</mask>
       <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.f</mask>
       <mask>*.ftl</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
