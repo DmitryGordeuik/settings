@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xslt" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.json</mask>
@@ -26,7 +26,6 @@
       <mask>*.pro</mask>
       <mask>*.proper</mask>
       <mask>*.proper*</mask>
-      <mask>*.java</mask>
       <mask>*.f</mask>
       <mask>*.ftl</mask>
       <mask>*.xml</mask>
@@ -35,6 +34,7 @@
       <mask>*.xs</mask>
       <mask>*.xsl</mask>
       <mask>*.xslt</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
