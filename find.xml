@@ -3,17 +3,14 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xslt" />
     <recentFileMasks>
-      <mask>*.upda</mask>
-      <mask>*.update</mask>
       <mask>*.js</mask>
       <mask>*.json</mask>
       <mask>*.pm</mask>
       <mask>*.pms</mask>
       <mask>*.ft</mask>
-      <mask>*.xm</mask>
       <mask>*.pro*</mask>
-      <mask>*.xs</mask>
       <mask>*.</mask>
       <mask>*.jav</mask>
       <mask>*.jacv</mask>
@@ -29,11 +26,15 @@
       <mask>*.pro</mask>
       <mask>*.proper</mask>
       <mask>*.proper*</mask>
-      <mask>*.x</mask>
       <mask>*.java</mask>
       <mask>*.f</mask>
       <mask>*.ftl</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsl</mask>
+      <mask>*.xslt</mask>
     </recentFileMasks>
   </component>
 </application>
