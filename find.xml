@@ -30,10 +30,10 @@
       <mask>*.xs</mask>
       <mask>*.xsl</mask>
       <mask>*.xslt</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
