@@ -13,7 +13,6 @@
       <mask>*.ft</mask>
       <mask>*.pro*</mask>
       <mask>*.</mask>
-      <mask>*.jav</mask>
       <mask>*.jacv</mask>
       <mask>*.jacva</mask>
       <mask>*.xsd</mask>
@@ -30,12 +29,13 @@
       <mask>*.xs</mask>
       <mask>*.xsl</mask>
       <mask>*.xslt</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.f</mask>
       <mask>*.ftl</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
