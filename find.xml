@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.js</mask>
       <mask>*.json</mask>
       <mask>*.pm</mask>
       <mask>*.pms</mask>
@@ -14,13 +13,9 @@
       <mask>*.jacv</mask>
       <mask>*.jacva</mask>
       <mask>*.xsd</mask>
-      <mask>*.pr</mask>
-      <mask>*.prop</mask>
       <mask>*.propert</mask>
       <mask>*.properties</mask>
       <mask>*.j</mask>
-      <mask>*.p</mask>
-      <mask>*.pro</mask>
       <mask>*.proper</mask>
       <mask>*.proper*</mask>
       <mask>*.xm</mask>
@@ -34,6 +29,11 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.prop*</mask>
     </recentFileMasks>
   </component>
 </application>
