@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.json</mask>
       <mask>*.pm</mask>
       <mask>*.pms</mask>
       <mask>*.ft</mask>
@@ -13,7 +11,6 @@
       <mask>*.</mask>
       <mask>*.jacv</mask>
       <mask>*.jacva</mask>
-      <mask>*.xsd</mask>
       <mask>*.propert</mask>
       <mask>*.properties</mask>
       <mask>*.j</mask>
@@ -35,6 +32,8 @@
       <mask>*.prop*</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xx</mask>
+      <mask>*.xsd</mask>
     </recentFileMasks>
   </component>
 </application>
