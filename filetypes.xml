@@ -3,14 +3,15 @@
     <extensionMap>
       <mapping pattern="s" type="DTD" />
       <mapping pattern="mvpWineDto.json" type="PLAIN_TEXT" />
-      <mapping pattern="S" type="PLAIN_TEXT" />
       <mapping pattern="storesByChannelTeam" type="PLAIN_TEXT" />
-      <mapping pattern="sdf" type="PLAIN_TEXT" />
       <mapping pattern="sdf.json" type="PLAIN_TEXT" />
+      <mapping pattern="sdf" type="PLAIN_TEXT" />
+      <mapping pattern="S" type="PLAIN_TEXT" />
+      <mapping pattern="BenchmarkList" type="PLAIN_TEXT" />
       <mapping pattern="storesByChannelTeam.json" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="asd" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping pattern="userTasksTable" type="VTL" />
     </extensionMap>
   </component>
