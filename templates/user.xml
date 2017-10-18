@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="prov" value="  @DataProvider(name = &quot;$NAME$&quot;)&#10;  public static Object[][] $NAME$() {&#10;    return new Object[][] {{2, true}, {6, false}};&#10;  }" description="TestNG Data Provider" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
