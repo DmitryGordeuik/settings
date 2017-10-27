@@ -21,7 +21,6 @@
       <mask>*.prop</mask>
       <mask>*.prop*</mask>
       <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*.xx</mask>
       <mask>*.xsd</mask>
       <mask>p</mask>
@@ -34,6 +33,7 @@
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
