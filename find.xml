@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.j</mask>
       <mask>*.proper</mask>
       <mask>*.proper*</mask>
@@ -23,10 +23,7 @@
       <mask>*.xsd</mask>
       <mask>p</mask>
       <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
       <mask>pom.x</mask>
-      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
@@ -34,6 +31,10 @@
       <mask>*.xml</mask>
       <mask>*.f</mask>
       <mask>*.ftl</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xml.</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
