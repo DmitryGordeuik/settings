@@ -27,13 +27,13 @@
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
       <mask>*.f</mask>
       <mask>*.ftl</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml.</mask>
       <mask>pom.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
