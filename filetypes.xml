@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="s" type="DTD" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="SYSTEM!DEFAULT!AUTHINFO!OCSP" type="PLAIN_TEXT" />
       <mapping pattern="SYSTEM!DEFAULT!LISTENER!TCP" type="PLAIN_TEXT" />
       <mapping pattern="storesByChannelTeam" type="PLAIN_TEXT" />
