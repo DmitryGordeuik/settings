@@ -18,6 +18,7 @@
       <mapping pattern="BenchmarkList" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="asd" type="PLAIN_TEXT" />
+      <mapping ext="mqsc" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping pattern="userTasksTable" type="VTL" />
     </extensionMap>
