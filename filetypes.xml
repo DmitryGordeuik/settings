@@ -7,6 +7,7 @@
       <mapping pattern="SYSTEM!DEFAULT!LISTENER!TCP" type="PLAIN_TEXT" />
       <mapping pattern="storesByChannelTeam" type="PLAIN_TEXT" />
       <mapping pattern="SYSTEM!DEFAULT!AUTHINFO!CRLLDAP" type="PLAIN_TEXT" />
+      <mapping pattern="syncHotelInformation" type="PLAIN_TEXT" />
       <mapping pattern="ESBSERVICE" type="PLAIN_TEXT" />
       <mapping pattern="mvpWineDto.json" type="PLAIN_TEXT" />
       <mapping pattern="S" type="PLAIN_TEXT" />
