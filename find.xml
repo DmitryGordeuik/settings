@@ -5,14 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>*.proper</mask>
-      <mask>*.proper*</mask>
-      <mask>*.xm</mask>
-      <mask>*.xs</mask>
-      <mask>*.xsl</mask>
-      <mask>*.xslt</mask>
       <mask>*.jav</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
@@ -36,6 +30,13 @@
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradd</mask>
+      <mask>*.graddl</mask>
+      <mask>*.graddle</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
