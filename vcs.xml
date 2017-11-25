@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/DmitryGordeuik/CdpFilmApp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.26.11.105:7000" />
+          <option name="userName" value="dzmitry_hardziayuk" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
