@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="s" type="DTD" />
+      <mapping ext="vue" type="JavaScript" />
       <mapping pattern="SYSTEM!DEFAULT!AUTHINFO!OCSP" type="PLAIN_TEXT" />
       <mapping pattern="SYSTEM!DEFAULT!LISTENER!TCP" type="PLAIN_TEXT" />
       <mapping pattern="storesByChannelTeam" type="PLAIN_TEXT" />
@@ -9,7 +10,6 @@
       <mapping pattern="syncHotelInformation" type="PLAIN_TEXT" />
       <mapping pattern="DEV!LISTENER!TCP" type="PLAIN_TEXT" />
       <mapping pattern="ESBSERVICE" type="PLAIN_TEXT" />
-      <mapping pattern="mvpWineDto.json" type="PLAIN_TEXT" />
       <mapping pattern="S" type="PLAIN_TEXT" />
       <mapping pattern="storesByChannelTeam.json" type="PLAIN_TEXT" />
       <mapping pattern="sdf.json" type="PLAIN_TEXT" />
@@ -17,6 +17,7 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
       <mapping pattern="BenchmarkList" type="PLAIN_TEXT" />
+      <mapping pattern="mvpWineDto.json" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="asd" type="PLAIN_TEXT" />
