@@ -4,6 +4,7 @@
       <mapping pattern="s" type="DTD" />
       <mapping pattern="dockerfile" type="Native" />
       <mapping pattern="SYSTEM!DEFAULT!AUTHINFO!OCSP" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="SYSTEM!DEFAULT!LISTENER!TCP" type="PLAIN_TEXT" />
       <mapping pattern="storesByChannelTeam" type="PLAIN_TEXT" />
       <mapping pattern="SYSTEM!DEFAULT!AUTHINFO!CRLLDAP" type="PLAIN_TEXT" />
