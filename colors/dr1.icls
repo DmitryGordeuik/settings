@@ -696,6 +696,12 @@
         <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="940ea9" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="JS.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="519f50" />
