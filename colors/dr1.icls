@@ -1,6 +1,6 @@
 <scheme name="dr1" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <colors>
@@ -133,6 +133,11 @@
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="536c46" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="82ee" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
