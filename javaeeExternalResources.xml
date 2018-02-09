@@ -1,5 +1,0 @@
-<application>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://www.springframework.org/schema/osgi/spring-osgi.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/d7853015_spring-osgi.xsd" />
-  </component>
-</application>
