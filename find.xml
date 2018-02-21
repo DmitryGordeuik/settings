@@ -1,12 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*.xx</mask>
       <mask>*.xsd</mask>
       <mask>p</mask>
       <mask>po</mask>
@@ -36,6 +34,7 @@
       <mask>*grs*.java</mask>
       <mask>*.java</mask>
       <mask>pom.xml</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
