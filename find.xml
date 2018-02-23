@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.xsd</mask>
       <mask>p</mask>
@@ -26,7 +26,6 @@
       <mask>*.graddle</mask>
       <mask>*.gradle</mask>
       <mask>*.pom</mask>
-      <mask>*.xml</mask>
       <mask>*.ja</mask>
       <mask>S*.java</mask>
       <mask>Sing*.java</mask>
@@ -37,6 +36,7 @@
       <mask>pom.xml</mask>
       <mask>*.groovy</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
