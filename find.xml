@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.xsd</mask>
       <mask>p</mask>
@@ -33,9 +34,9 @@
       <mask>*g*.java</mask>
       <mask>*gr*.java</mask>
       <mask>*grs*.java</mask>
-      <mask>*.java</mask>
       <mask>pom.xml</mask>
       <mask>*.groovy</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
