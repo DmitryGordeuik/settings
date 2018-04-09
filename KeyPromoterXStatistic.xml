@@ -6,6 +6,14 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'Alt+5'</ShortCut>
+          <Description>Debug</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -33,6 +41,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ManagementToolApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ManagementToolApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
@@ -54,7 +70,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
