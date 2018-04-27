@@ -1,39 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.xsd</mask>
-      <mask>p</mask>
-      <mask>po</mask>
-      <mask>pom.x</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.f</mask>
-      <mask>*.ftl</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml.</mask>
-      <mask>*.gr</mask>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradd</mask>
-      <mask>*.graddl</mask>
-      <mask>*.graddle</mask>
-      <mask>*.gradle</mask>
-      <mask>*.pom</mask>
-      <mask>*.ja</mask>
-      <mask>S*.java</mask>
-      <mask>Sing*.java</mask>
-      <mask>*Sing*.java</mask>
-      <mask>*g*.java</mask>
-      <mask>*gr*.java</mask>
-      <mask>*grs*.java</mask>
-      <mask>pom.xml</mask>
-      <mask>*.groovy</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
+    <option name="customScope" value="File '.../avail-esb-model/src/main/java/com/ihg/enterprise/availability/v2/ahp/AvailabilityResponse.java [avail-esb-model]'" />
+    <option name="defaultScopeName" value="File '.../avail-esb-model/src/main/java/com/ihg/enterprise/availability/v2/ahp/AvailabilityResponse.java [avail-esb-model]'" />
+    <option name="SEARCH_SCOPE" value="File '.../avail-esb-model/src/main/java/com/ihg/enterprise/availability/v2/ahp/AvailabilityResponse.java [avail-esb-model]'" />
   </component>
 </application>
