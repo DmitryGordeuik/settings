@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>116</Count>
+          <Count>117</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>48</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
     </option>
