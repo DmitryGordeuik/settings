@@ -2,7 +2,7 @@
   <component name="UmlConfiguration">
     <option name="categories">
       <map>
-        <entry id="JAVA" categories="Fields;Properties;Inner Classes;Show Cyclic" />
+        <entry id="JAVA" categories="Fields" />
       </map>
     </option>
   </component>
