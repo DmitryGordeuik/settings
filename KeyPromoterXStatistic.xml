@@ -329,6 +329,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Tests in &quot;com.ihg.atp.crs.reservations.v...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Tests in &quot;com.ihg.atp.crs.reservations.v...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'com.ihg.enterprise.avail.v2.re...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
