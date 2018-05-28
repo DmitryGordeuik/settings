@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>92</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>359</Count>
+          <Count>364</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -233,6 +233,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'AhpConnectorTest.testConnection'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'AhpConnectorTest.testConnection'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AhpReservationDAOImplTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'AhpReservationDAOImplTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'AvailabilityServiceDAOTestCase.getRatesWithServiceCharges (1)'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -271,6 +287,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'BundleServiceTest.retrieveBundlesDetails'</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ChannelProfileResolutionDAOTest.testResolveMultiProfile'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ChannelProfileResolutionDAOTest.testResolveMultiProfile'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FindReservationsServiceTest'">
@@ -398,7 +422,7 @@
           <IdeaActionID>Git.Reword.Commit</IdeaActionID>
           <ShortCut>'F2' or 'Shift+F6'</ShortCut>
           <Description>Reword...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -502,6 +526,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'AhpConnectorTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AhpConnectorTest.testConnection'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AhpConnectorTest.testConnection'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -654,7 +686,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>120</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -662,7 +694,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>251</Count>
+          <Count>252</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -686,7 +718,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>231</Count>
+          <Count>233</Count>
         </Item>
       </Statistic>
     </option>
