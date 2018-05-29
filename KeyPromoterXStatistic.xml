@@ -62,7 +62,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>94</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>374</Count>
+          <Count>376</Count>
         </Item>
       </Statistic>
       <Statistic Action="Deselect All">
@@ -271,6 +271,22 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'AhpReservationDAOImplTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AhpUrlBuilderTest.testFindReservationsByMultiHotelUrl'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'AhpUrlBuilderTest.testFindReservationsByMultiHotelUrl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AhpUrlBuilderTest.testRetrieveGuestListUrl'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'AhpUrlBuilderTest.testRetrieveGuestListUrl'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'AvailabilityServiceDAOTestCase.getRatesWithServiceCharges (1)'">
@@ -438,7 +454,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>304</Count>
+          <Count>318</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reword...">
@@ -542,7 +558,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>164</Count>
+          <Count>165</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AhpConnectorTest'">
@@ -718,7 +734,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>256</Count>
+          <Count>265</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -742,7 +758,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>236</Count>
+          <Count>237</Count>
         </Item>
       </Statistic>
     </option>
