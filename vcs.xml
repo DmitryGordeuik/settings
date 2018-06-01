@@ -26,8 +26,4 @@
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
   </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$" />
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
-  </component>
 </application>
