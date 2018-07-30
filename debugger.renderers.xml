@@ -19,37 +19,5 @@
       <option name="NAME" value="Primitive" />
       <option name="SHOW_HEX_VALUE" value="false" />
     </Renderer>
-    <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
-        <option name="NAME" value="DateFromLong" />
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="java.util.Date" />
-        <Renderer ID="LabelRenderer" role="label">
-          <option name="QUALIFIED_NAME" value="java.util.Date" />
-          <option name="ON_DEMAND" value="false" />
-          <option name="LABEL_EXPRESSION" value="new Date(  )&#13;java.sql.Date&#13;JAVA" />
-        </Renderer>
-      </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
-        <option name="NAME" value="Long" />
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="java.lang.Long" />
-      </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
-        <option name="NAME" value="unnamed" />
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="java.lang.String" />
-      </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
-        <option name="NAME" value="BufferedInputStream" />
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="java.io.BufferedInputStream" />
-      </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
-        <option name="NAME" value="java.lang.String" />
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="com.newrelic.agent.util.StackTraces" />
-      </Renderer>
-    </CustomRenderers>
   </component>
 </application>

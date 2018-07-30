@@ -34,6 +34,7 @@
       <mapping ext="s" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping pattern="userTasksTable" type="VTL" />
+      <mapping pattern="findByCCwithTwoSegments" type="XML" />
     </extensionMap>
   </component>
 </application>
