@@ -26,6 +26,10 @@
           <option name="url" value="http://git.epam.com" />
           <option name="userName" value="Dzmitry_Hardziayuk" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sdlcscm.hiw.com" />
+          <option name="userName" value="hardzid" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
