@@ -4,7 +4,7 @@
     <property name="created">2018-12-04T14:09:03</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2018-12-04T14:34:48</property>
+    <property name="modified">2018-12-05T10:26:26</property>
     <property name="originalScheme">GapStyle</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -51,6 +51,7 @@
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cfd3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="ABSTRACT_METHOD_ATTRIBUTES">
@@ -1118,6 +1119,7 @@
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9797c2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="IVAR">
@@ -1596,6 +1598,11 @@
       <value>
         <option name="FOREGROUND" value="80805a" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
