@@ -1,8 +1,13 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Tool_External Tools_mvni" is_action="true" action_type="1" position="14">
+    <group seperator="true" action_type="1" position="14">
       <path value="root" />
-      <path value="Main menu" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_mvni" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
