@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="mvn" />
       <option name="PARAMETERS" value="clean install -DstipTests" />
-      <option name="WORKING_DIRECTORY" value="." />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
