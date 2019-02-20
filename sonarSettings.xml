@@ -1,0 +1,25 @@
+<application>
+  <component name="localAnalysisScripts">
+    <option name="beans">
+      <list>
+        <LocalAnalysisScript>
+          <option name="name" value="nano_sonar" />
+          <option name="pathToSonarReport" value="$WORKING_DIR/target/soanr/sonar-report.json" />
+          <option name="sourceCode" value="mvn sonar:sonar -Dsonar.analysis.mode=preview -Dsonar.report.export.path=sonar-report.json -Dsonar.host.url=http://http://esi-sonar.ihgext.global" />
+        </LocalAnalysisScript>
+      </list>
+    </option>
+  </component>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="anonymous" value="true" />
+          <option name="hostUrl" value="http://esi-sonar.ihgext.global/" />
+          <option name="name" value="IHG Sonar" />
+          <option name="user" value="" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>
