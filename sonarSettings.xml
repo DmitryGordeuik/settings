@@ -4,7 +4,7 @@
       <list>
         <LocalAnalysisScript>
           <option name="name" value="nano_sonar" />
-          <option name="pathToSonarReport" value="$WORKING_DIR/target/soanr/sonar-report.json" />
+          <option name="pathToSonarReport" value="$USER_HOME$/Projects/IHG/availability-esb/target/sonar/sonar-report.json" />
           <option name="sourceCode" value="mvn sonar:sonar -Dsonar.analysis.mode=preview -Dsonar.report.export.path=sonar-report.json -Dsonar.host.url=http://http://esi-sonar.ihgext.global" />
         </LocalAnalysisScript>
       </list>
