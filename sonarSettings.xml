@@ -17,6 +17,7 @@
           <option name="anonymous" value="true" />
           <option name="hostUrl" value="http://esi-sonar.ihgext.global/" />
           <option name="name" value="IHG Sonar" />
+          <option name="passwordChanged" value="true" />
           <option name="user" value="" />
         </SonarServerConfig>
       </list>
