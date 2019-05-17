@@ -34,6 +34,7 @@
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="mqsc" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="colf" type="PLAIN_TEXT" />
       <mapping pattern="userTasksTable" type="VTL" />
       <mapping pattern="findByCCwithTwoSegments" type="XML" />
     </extensionMap>
