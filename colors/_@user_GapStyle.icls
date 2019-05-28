@@ -3,7 +3,7 @@
     <property name="created">2018-12-04T14:09:03</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2019-05-14T14:13:22</property>
+    <property name="modified">2019-05-28T14:41:26</property>
     <property name="originalScheme">GapStyle</property>
   </metaInfo>
   <colors>
@@ -2598,7 +2598,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="202729" />
+        <option name="BACKGROUND" value="111719" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
