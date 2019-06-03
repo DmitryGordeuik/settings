@@ -33,6 +33,9 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
   </component>
