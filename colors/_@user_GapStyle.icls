@@ -3,7 +3,7 @@
     <property name="created">2018-12-04T14:09:03</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2019-05-28T15:00:13</property>
+    <property name="modified">2019-06-07T13:43:23</property>
     <property name="originalScheme">GapStyle</property>
   </metaInfo>
   <colors>
@@ -2151,6 +2151,16 @@
         <option name="FOREGROUND" value="ff0011" />
       </value>
     </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="e700d7" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="6bafff" />
+      </value>
+    </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
       <value>
         <option name="FOREGROUND" value="b89c06" />
@@ -2280,9 +2290,44 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="20ff0e" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="ff7f05" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="50a6e7" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="ff2cca" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="ffc1af" />
+      </value>
+    </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="f2c8" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="32bc39" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="6bafff" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
