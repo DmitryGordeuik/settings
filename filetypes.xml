@@ -5,38 +5,44 @@
       <mapping pattern="s" type="DTD" />
       <mapping pattern="WRTRN_SYDHA_DELBA_BTNCC_HGHHZ_HGHHB_MSCTL_WRTRA_XWHUK_NCLSQ_NCLJM_SEAAX.json" type="JSON" />
       <mapping pattern="dockerfile" type="Native" />
-      <mapping pattern="SYSTEM!DEFAULT!AUTHINFO!OCSP" type="PLAIN_TEXT" />
-      <mapping pattern="SYSTEM!DEFAULT!LISTENER!TCP" type="PLAIN_TEXT" />
-      <mapping pattern="storesByChannelTeam.json" type="PLAIN_TEXT" />
-      <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping pattern="storesByChannelTeam" type="PLAIN_TEXT" />
-      <mapping pattern="SYSTEM!DEFAULT!AUTHINFO!CRLLDAP" type="PLAIN_TEXT" />
-      <mapping pattern="syncHotelInformation" type="PLAIN_TEXT" />
-      <mapping pattern="ESBSERVICE" type="PLAIN_TEXT" />
-      <mapping pattern="S" type="PLAIN_TEXT" />
       <mapping pattern="corp_acc_replace" type="PLAIN_TEXT" />
-      <mapping pattern="DEV!LISTENER!TCP" type="PLAIN_TEXT" />
-      <mapping pattern="sdf.json" type="PLAIN_TEXT" />
-      <mapping pattern="BenchmarkList" type="PLAIN_TEXT" />
+      <mapping pattern="SYSTEM!DEFAULT!LISTENER!TCP" type="PLAIN_TEXT" />
       <mapping pattern="reservations_found" type="PLAIN_TEXT" />
+      <mapping pattern="BenchmarkList" type="PLAIN_TEXT" />
+      <mapping pattern="JenkinsfileSonar" type="PLAIN_TEXT" />
+      <mapping pattern="syncHotelInformation" type="PLAIN_TEXT" />
+      <mapping pattern="storesByChannelTeam.json" type="PLAIN_TEXT" />
+      <mapping pattern="sdf" type="PLAIN_TEXT" />
+      <mapping pattern="JenkinsFile" type="PLAIN_TEXT" />
+      <mapping pattern="ESBSERVICE" type="PLAIN_TEXT" />
+      <mapping pattern="main" type="PLAIN_TEXT" />
+      <mapping pattern="DEV!LISTENER!TCP" type="PLAIN_TEXT" />
+      <mapping pattern="SYSTEM!DEFAULT!AUTHINFO!OCSP" type="PLAIN_TEXT" />
+      <mapping pattern="cacerts" type="PLAIN_TEXT" />
+      <mapping pattern="mvpWineDto.json" type="PLAIN_TEXT" />
+      <mapping pattern="sdf.json" type="PLAIN_TEXT" />
+      <mapping pattern="JenkinsfileSkipTests" type="PLAIN_TEXT" />
+      <mapping pattern="S" type="PLAIN_TEXT" />
+      <mapping pattern="SYSTEM!DEFAULT!AUTHINFO!CRLLDAP" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="cacerts" type="PLAIN_TEXT" />
-      <mapping pattern="JenkinsFile" type="PLAIN_TEXT" />
-      <mapping pattern="JenkinsfileSonar" type="PLAIN_TEXT" />
-      <mapping pattern="mvpWineDto.json" type="PLAIN_TEXT" />
-      <mapping pattern="JenkinsfileSkipTests" type="PLAIN_TEXT" />
-      <mapping pattern="sdf" type="PLAIN_TEXT" />
-      <mapping ext="lombok" type="PLAIN_TEXT" />
-      <mapping ext="porperties" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="asd" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping ext="mqsc" type="PLAIN_TEXT" />
-      <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="colf" type="PLAIN_TEXT" />
+      <mapping ext="asd" type="PLAIN_TEXT" />
+      <mapping ext="mqsc" type="PLAIN_TEXT" />
+      <mapping ext="porperties" type="PLAIN_TEXT" />
+      <mapping ext="lombok" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="userTasksTable" type="VTL" />
       <mapping pattern="findByCCwithTwoSegments" type="XML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
