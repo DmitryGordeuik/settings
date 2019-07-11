@@ -10,10 +10,10 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.xsd</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
   </component>
 </application>
