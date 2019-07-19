@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="avro" type="Avro™ IDL" />
       <mapping pattern="s" type="DTD" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="WRTRN_SYDHA_DELBA_BTNCC_HGHHZ_HGHHB_MSCTL_WRTRA_XWHUK_NCLSQ_NCLJM_SEAAX.json" type="JSON" />
       <mapping pattern="dockerfile" type="Native" />
       <mapping pattern="corp_acc_replace" type="PLAIN_TEXT" />
@@ -42,7 +44,10 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
