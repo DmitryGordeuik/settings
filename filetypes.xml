@@ -15,6 +15,7 @@
       <mapping pattern="syncHotelInformation" type="PLAIN_TEXT" />
       <mapping pattern="storesByChannelTeam.json" type="PLAIN_TEXT" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
+      <mapping pattern=".system.lock" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsFile" type="PLAIN_TEXT" />
       <mapping pattern="ESBSERVICE" type="PLAIN_TEXT" />
       <mapping pattern="main" type="PLAIN_TEXT" />
