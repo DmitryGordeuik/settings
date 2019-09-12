@@ -18,16 +18,16 @@
       <mapping pattern="S" type="PLAIN_TEXT" />
       <mapping pattern="corp_acc_replace" type="PLAIN_TEXT" />
       <mapping pattern="storesByChannelTeam.json" type="PLAIN_TEXT" />
-      <mapping pattern="JenkinsFile" type="PLAIN_TEXT" />
+      <mapping pattern="sdf.json" type="PLAIN_TEXT" />
       <mapping pattern="reservations_found" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="sdf" type="PLAIN_TEXT" />
       <mapping pattern=".system.lock" type="PLAIN_TEXT" />
       <mapping pattern="BenchmarkList" type="PLAIN_TEXT" />
+      <mapping pattern="JenkinsFile" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsfileSkipTests" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsfileSonar" type="PLAIN_TEXT" />
-      <mapping pattern="sdf.json" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="porperties" type="PLAIN_TEXT" />
       <mapping ext="asd" type="PLAIN_TEXT" />
