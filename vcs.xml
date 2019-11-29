@@ -30,6 +30,10 @@
           <option name="url" value="http://sdlcscm.hiw.com" />
           <option name="userName" value="hardzid" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitbud.epam.com" />
+          <option name="userName" value="dzmitry_hardziayuk" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
@@ -47,6 +51,5 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$" />
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="false" />
   </component>
 </application>
