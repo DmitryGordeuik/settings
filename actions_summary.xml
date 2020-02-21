@@ -18,11 +18,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="EditorBackSpace">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582276210407" />
+              <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
               <option name="last" value="1582118518400" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorDown">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582276044345" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -50,6 +66,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="EditorUp">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582276260675" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="FindInPath">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582276204299" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="GotoClass">
           <value>
             <ActionSummary>
@@ -61,8 +93,8 @@
         <entry key="MainMenu">
           <value>
             <ActionSummary>
-              <option name="last" value="1582275915058" />
-              <option name="times" value="6" />
+              <option name="last" value="1582276033658" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -74,19 +106,59 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Switcher">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582276260090" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Tree-selectChild">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582276282323" />
+              <option name="times" value="11" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Tree-selectNext">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582276281661" />
+              <option name="times" value="40" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Tree-selectParent">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582276265804" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Tree-selectPrevious">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582276282862" />
+              <option name="times" value="9" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582275920795" />
-              <option name="times" value="1" />
+              <option name="last" value="1582276038259" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582118520680" />
-              <option name="times" value="2" />
+              <option name="last" value="1582276210850" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
