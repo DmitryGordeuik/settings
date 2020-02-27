@@ -29,8 +29,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582118518400" />
-              <option name="times" value="2" />
+              <option name="last" value="1582787087631" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -74,6 +74,13 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Find">
+          <value>
+            <ActionSummary>
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="FindInPath">
           <value>
             <ActionSummary>
@@ -86,6 +93,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1582275931800" />
+              <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoDeclaration">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582786783857" />
               <option name="times" value="5" />
             </ActionSummary>
           </value>
@@ -109,8 +124,8 @@
         <entry key="Switcher">
           <value>
             <ActionSummary>
-              <option name="last" value="1582276260090" />
-              <option name="times" value="1" />
+              <option name="last" value="1582787085221" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
