@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="s" type="DTD" />
       <mapping pattern="WRTRN_SYDHA_DELBA_BTNCC_HGHHZ_HGHHB_MSCTL_WRTRA_XWHUK_NCLSQ_NCLJM_SEAAX.json" type="JSON" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="dockerfile" type="Native" />
       <mapping pattern="SYSTEM!DEFAULT!AUTHINFO!OCSP" type="PLAIN_TEXT" />
       <mapping pattern="storesByChannelTeam" type="PLAIN_TEXT" />
